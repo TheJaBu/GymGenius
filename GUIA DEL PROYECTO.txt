@@ -1,0 +1,19 @@
+Buenas, en este zip incluyo todo lo necesario y utilizado en este proyecto.
+
+Para utilizar la aplicacion es imprescindible implementar primero la base de datos en un servidor MySQL.
+Adjunto el archivo para importar la base de datos y tambien la carpeta completa "mysql".
+Yo he usado "xampp" para el desarrollo del proyecto.
+
+Si necesita descargar xampp: https://www.apachefriends.org/es/index.html
+
+Podemos encontrar estos archivos en la carpera "Base de datos"
+Dentro encontraremos una copia completa de la carpeta y el archivo necesario para importar la BD "gymgenius.sql".
+
+Una vez realizados estos pasos, podremos probar nuestra aplicacion de diferentes maneras.
+
+	1) Mediante "Proyecto Netbeans" abriendo en Netbeans el proyecto y ejecutandolo desde ayi.
+	2) Desde la carpeta "Ejecutable" donde dispondremos del archivo .exe y el .jar los cuales los dos nos permiten ejecutar la aplicación.
+	3) Desde la carpeta "Instalador" donde podremos instalar nuestra aplicacion en nuestro ordenador.
+Una vez instalada la aplicacion podremos ejecutarla. Tambien he incluido el archivo "gymgenius.sql" para que te lo incluya en la ruta donde se instalara la aplicación por si lo necesitan.
+	4) Desde el propio "Autorun.exe"
+	
